@@ -1,0 +1,73 @@
+/*
+Theme Name: Theme site ludus 1B
+Theme URI: ludus1B.com
+Author: RedEon7
+Description: Theme CSS site web Ludus 1B
+Version: 1.0
+License: Ludus 1B
+License URI: Ludus1B.com
+Text Domain: Ludus 1B */
+
+/*	attribut class
+	attribut id
+*/
+
+body{
+	background-color:black;
+	color: white;
+	background-image:url(background/bg.jpg);
+}
+
+*{ /* Définis la marge et le padding */
+	margin:10px;
+	padding:0px;
+	
+}
+
+.diplome{
+	text-align: center;
+	border:3px inset;
+    border-color: darkblue;
+    background-color:black;
+    box-shadow: 12px 12px 0px rgba(0,0,0,0.4);
+    width:50%;
+    margin: 0 auto;
+}
+
+.contact{
+	text-align: center;
+	border:3px inset;
+    border-color: darkblue;
+    background-color:black;
+    box-shadow: 12px 12px 0px rgba(0,0,0,0.4);
+    width:30%;
+    margin: 0 auto;
+}
+
+.rgn{
+	text-align: center;
+	border:3px inset;
+    border-color: darkblue;
+    background-color:black;
+    box-shadow: 12px 12px 0px rgba(0,0,0,0.4);
+    width:50%;
+    margin: 0 auto;
+}
+
+h3{
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	border:3px inset;
+    border-color: darkblue;
+    background-color:black;
+    box-shadow: 12px 12px 0px rgba(0,0,0,0.4);
+    width:50%;
+    margin: 0 auto;
+}
+
+footer{
+	text-align: center;
+}
